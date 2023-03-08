@@ -1,0 +1,6 @@
+framework module Pods_PPChat {
+  umbrella header "Pods-PPChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
